@@ -356,6 +356,20 @@ a.dotted-link:hover {
   font-weight: normal;
 }
 
+.experience .item .title .location {
+  color: #999;
+  font-weight: normal;
+}
+
+.experience .item .description{
+  margin-bottom: .25rem;
+}
+
+.experience .item .skills {
+  color: #999;
+  font-weight: normal;
+}
+
 /* Git section */
 .github-graph {
   margin-bottom: 30px;
